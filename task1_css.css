@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 10px;
+  background-color: #f0f8ff;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 2px solid #ddd;
+  border-radius: 50px; /* Elliptical border radius */
+}
+
+th {
+  background-color: #e6f0fa;
+}
